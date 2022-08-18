@@ -1,5 +1,5 @@
 import os
-c = input("Choose your environment: [0] pip / [1] pip3 : ")
+c = input("Chon de setup: [0] pip / [1] pip3 : ")
 
 if c == "0":
     os.system("pip install cloudscraper")
@@ -20,4 +20,4 @@ else:
     os.system("wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb")
     os.system("apt-get install ./google-chrome-stable_current_amd64.deb")
 
-print("Done.")
+print("OK .")
