@@ -603,9 +603,9 @@ def title():
     stdout.write("                                 "+Fore.LIGHTGREEN_EX   +"  ╩═╝ ╚═╝ ╚═╝     \n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX   +" CHAO MUNG DEN VOI LEODDOSTOOL       "+Fore.LIGHTGREEN_EX  +"     ║\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX   +" NHAP HELP DE TIEP TUC               "+Fore.LIGHTGREEN_EX +"      ║\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX   +" FB: NGUYEN ANH DUC                  "+Fore.LIGHTGREEN_EX +"      ║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX               +" CHAO MUNG DEN VOI LEODDOSTOOL        "+Fore.LIGHTGREEN_EX  +"     ║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX               +" NHAP HELP DE TIEP TUC               "+Fore.LIGHTGREEN_EX +"      ║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTGREEN_EX               +" FB: NGUYEN ANH DUC                  "+Fore.LIGHTGREEN_EX +"      ║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
